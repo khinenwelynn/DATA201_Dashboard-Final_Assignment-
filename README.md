@@ -17,6 +17,7 @@ This project was developed as the final academic submission for **DATA 201**.
 ---
 
 ## Repository Structure
+```bash
 ├── .streamlit/
 │   └── config.toml                  # Streamlit theme and UI configurations
 ├── app2.py                          # application source code
@@ -26,7 +27,7 @@ This project was developed as the final academic submission for **DATA 201**.
 ├── requirements.txt                 # Application package dependencies
 ├── wrapup.png                       # wrap up image
 └── README.md                        # project documentation 
-
+```
 
 
 ## The Story behind the dashboard
@@ -37,7 +38,7 @@ However, mapping the data chronologically and categorically reveals a completely
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 * **The Volume Myth Debunked:** Statistical boxplot distributions reveal that total caloric volume does not drive gastrointestinal distress. The median caloric load for cleanly digested meals was actually higher (~400 kcal) than meals causing discomfort (~360 kcal). Total meal size is not the enemy.
 * **The Worst Fatigue Driver:** Main meals are innocent of daytime drowsiness. Snacking cycles are explicitly flagged as the primary variable that drains mental and physical energy levels the most.
@@ -50,9 +51,7 @@ However, mapping the data chronologically and categorically reveals a completely
 
 When designing this dashboard, specific engineering and analytical choices were made to translate raw data rows into responsible real-world insights:
 
-1. **Choosing the Right Visualizations:** * **Box Plots** were chosen specifically for calorie analysis because averages hide data distributions. Box plots mathematically proved that the variance and medians of sick days vs. healthy days were nearly identical, successfully breaking the calorie myth.
-   * **Grouped Histograms** were selected to isolate categorical variables (like Spicy vs. Non-Spicy), separating background noise from clear health incidents.
-2. **Actionable Prescription Rules:** Rather than using vague, unhelpful data summaries, the insights section is deliberately programmed with an optimization framework. Because the data shows volume doesn't cause pain, the framework responsibly advises the user to keep enjoying restaurant social portions, but simply **drop the spice level to zero** and **swap quick processed snacks for low-glycemic fuel** to solve the energy drain.
+
 
 ---
 

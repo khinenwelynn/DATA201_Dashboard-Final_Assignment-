@@ -16,6 +16,19 @@ This project was developed as the final academic submission for **DATA 201**.
 
 ---
 
+## Repository Structure
+├── .streamlit/
+│   └── config.toml                  # Streamlit theme and UI configurations
+├── app2.py                          # application source code
+├── basic_caffeine_discomfort.png 
+├── cover.png                        # home page banner image
+├── food_and_feeling_tracker.csv    # The synthetic dataset
+├── requirements.txt                 # Application package dependencies
+├── wrapup.png                       # wrap up image
+└── README.md                        # project documentation 
+
+
+
 ## The Story behind the dashboard
 
 The core story of this data diary centers around an everyday lifestyle paradox. As a student relying heavily on **restaurants and fast food** the initial assumption to discomfort was that large, high-calorie commercial portions were the direct cause of physical sluggishness and stomach distress. 

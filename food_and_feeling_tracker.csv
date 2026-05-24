@@ -1,0 +1,109 @@
+Date,Meal_Type,Food_Name,Food_Category,Meal_With_Drink,Sugar_Level,Caffeine_Intake,Spicy_Or_NonSpicy,Physical_Discomfort,Energy_After,Mood,Stomach_Comfort,Sleep_Hours_Night_Before,Water_Intake_L,Total_Calories
+4/15/2026 7:30,breakfast,Mohinga,restaurant,Yes,1,No,Spicy,No,5,7,9,7.8,1.5,400
+4/15/2026 13:30,lunch,CP Chicken Roll,fast food,No,1,No,Non-Spicy,No,3,7,5,7.8,1.5,280
+4/15/2026 15:30,snack,Seaweed Snack,fast food,Yes,1,No,Non-Spicy,No,3,7,5,7.8,1.5,280
+4/15/2026 20:30,dinner,Lotteria Burger,fast food,No,2,No,Non-Spicy,No,5,7,7,7.8,1.5,750
+4/16/2026 8:45,breakfast,Yogurt,prepacked,No,3,No,Non-Spicy,No,7,8,5,7.3,1.9,150
+4/16/2026 13:00,lunch,CP Chicken Roll,fast food,No,2,No,Non-Spicy,No,5,8,7,7.3,1.9,280
+4/16/2026 16:45,snack,Matcha,prepacked,No,7,Yes,Non-Spicy,No,7,8,7,7.3,1.9,180
+4/16/2026 19:00,dinner,Lotteria Burger,fast food,No,3,No,Non-Spicy,No,3,8,5,7.3,1.9,750
+4/17/2026 12:00,lunch,Shan Noodles,restaurant,No,1,No,Spicy,No,7,9,10,7.6,1.7,585
+4/17/2026 15:45,snack,CP Chicken Roll,fast food,No,3,No,Non-Spicy,No,3,9,6,7.6,1.7,364
+4/17/2026 17:15,snack,CP Chicken Roll,fast food,Yes,4,No,Non-Spicy,No,4,9,7,7.6,1.7,364
+4/17/2026 20:15,dinner,Rice with homecook meals,homecook,Yes,3,No,Non-Spicy,No,8,9,10,7.6,1.7,650
+4/17/2026 23:45,snack,Instant Noodles,prepacked,No,2,No,Spicy,No,3,9,5,7.6,1.7,546
+4/18/2026 9:00,breakfast,Shan Noodles,restaurant,Yes,4,No,Spicy,Yes,5,1,2,4.6,0.8,450
+4/18/2026 18:30,dinner,Instant Noodles,prepacked,No,4,No,Spicy,Yes,5,1,1,4.6,0.8,420
+4/19/2026 8:15,breakfast,Mohinga,restaurant,Yes,3,No,Spicy,No,6,8,9,7.9,1.6,400
+4/19/2026 13:00,lunch,Fried Egg,fast food,No,3,No,Non-Spicy,No,3,8,7,7.9,1.6,280
+4/19/2026 15:30,snack,Yogurt,prepacked,Yes,1,No,Non-Spicy,No,7,8,6,7.9,1.6,150
+4/19/2026 19:45,dinner,Potato Chips,fast food,No,3,No,Spicy,No,7,8,9,7.9,1.6,650
+4/20/2026 14:15,lunch,Potato Chips,fast food,Yes,2,No,Non-Spicy,Yes,6,4,3,7,1.7,280
+4/21/2026 8:45,breakfast,Matcha,prepacked,Yes,7,Yes,Non-Spicy,No,8,7,8,7,2.4,180
+4/21/2026 13:00,lunch,CP Chicken Roll,fast food,No,1,No,Non-Spicy,No,4,7,6,7,2.4,280
+4/21/2026 16:15,snack,CP Chicken Roll,fast food,Yes,1,No,Non-Spicy,No,4,7,8,7,2.4,280
+4/21/2026 20:30,dinner,Kway Teow,restaurant,No,2,No,Non-Spicy,No,7,7,10,7,2.4,600
+4/22/2026 8:15,breakfast,Hta Min Thoke,restaurant,Yes,3,No,Spicy,No,8,9,8,7.8,1.7,400
+4/22/2026 13:00,lunch,CP Chicken Roll,fast food,Yes,1,No,Non-Spicy,No,2,9,6,7.8,1.7,280
+4/22/2026 15:30,snack,CP Chicken Roll,fast food,Yes,1,No,Non-Spicy,No,4,9,6,7.8,1.7,280
+4/22/2026 19:00,dinner,Mala Xiang Guo,restaurant,Yes,4,No,Spicy,Yes,6,7,4,7.8,1.7,1100
+4/23/2026 7:30,breakfast,Mohinga,restaurant,Yes,2,No,Spicy,No,6,9,7,7.4,2.4,400
+4/23/2026 13:30,lunch,CP Chicken Roll,fast food,Yes,4,No,Non-Spicy,No,2,9,5,7.4,2.4,280
+4/23/2026 16:45,snack,Raw Noodles,fast food,No,4,No,Spicy,Yes,4,7,4,7.4,2.4,280
+4/23/2026 19:00,dinner,Rice with homecook meals,homecook,No,2,No,Non-Spicy,No,5,9,7,7.4,2.4,500
+4/24/2026 8:45,breakfast,Shan Noodles,restaurant,No,1,No,Spicy,No,6,6,9,7.7,2,450
+4/24/2026 13:00,lunch,CP Chicken Roll,fast food,No,2,No,Non-Spicy,No,6,6,7,7.7,2,280
+4/24/2026 16:45,snack,Seaweed Snack,fast food,No,1,No,Non-Spicy,No,5,6,5,7.7,2,280
+4/24/2026 20:30,dinner,Lotteria Burger,fast food,No,3,No,Non-Spicy,No,3,6,6,7.7,2,750
+4/25/2026 7:30,breakfast,Mohinga,restaurant,No,2,No,Spicy,No,7,8,10,6.8,2.1,400
+4/25/2026 13:00,lunch,CP Chicken Roll,fast food,No,1,No,Non-Spicy,No,3,8,7,6.8,2.1,280
+4/25/2026 16:45,snack,CP Chicken Roll,fast food,Yes,3,No,Non-Spicy,No,2,8,6,6.8,2.1,280
+4/25/2026 20:30,dinner,BBQ,restaurant,No,2,No,Spicy,No,7,8,7,6.8,2.1,800
+4/26/2026 12:00,lunch,CP Chicken Roll,fast food,Yes,3,No,Non-Spicy,No,6,8,5,8.3,2.2,364
+4/26/2026 15:45,snack,CP Chicken Roll,fast food,Yes,3,No,Non-Spicy,No,2,8,6,8.3,2.2,364
+4/26/2026 17:15,snack,Lemon Tea,prepacked,Yes,5,Yes,Non-Spicy,Yes,8,6,4,8.3,2.2,156
+4/26/2026 20:15,dinner,BBQ,restaurant,Yes,1,No,Spicy,No,5,8,5,8.3,2.2,1040
+4/26/2026 23:45,snack,Instant Noodles,prepacked,Yes,2,No,Spicy,Yes,3,6,4,8.3,2.2,546
+4/27/2026 9:00,breakfast,Matcha,prepacked,No,5,Yes,Non-Spicy,Yes,5,1,1,5.1,0.8,180
+4/27/2026 18:30,dinner,Nan Gyi Thoke,restaurant,Yes,4,No,Spicy,Yes,6,1,4,5.1,0.8,600
+4/29/2026 7:30,breakfast,Shan Noodles,restaurant,No,2,No,Spicy,No,8,9,7,8.1,1.6,450
+4/29/2026 13:00,lunch,Potato Chips,fast food,Yes,3,No,Spicy,Yes,4,7,3,8.1,1.6,280
+4/29/2026 16:15,snack,CP Chicken Roll,fast food,Yes,3,No,Non-Spicy,No,2,9,5,8.1,1.6,280
+4/29/2026 19:45,dinner,Rice with homecook meals,homecook,Yes,3,No,Non-Spicy,No,5,9,7,8.1,1.6,500
+4/30/2026 8:15,breakfast,Mohinga,restaurant,Yes,1,No,Spicy,No,6,9,9,6.7,1.9,400
+4/30/2026 13:30,lunch,CP Chicken Roll,fast food,No,3,No,Non-Spicy,No,5,9,5,6.7,1.9,280
+4/30/2026 15:30,snack,Seaweed Snack,fast food,No,3,No,Non-Spicy,No,5,9,6,6.7,1.9,280
+4/30/2026 19:45,dinner,BBQ,restaurant,No,2,No,Spicy,No,6,9,5,6.7,1.9,800
+5/1/2026 14:15,lunch,CP Chicken Roll,fast food,No,3,No,Non-Spicy,No,5,8,5,7.8,1.9,280
+5/2/2026 13:00,lunch,Chicken Rice,restaurant,Yes,2,No,Non-Spicy,No,6,6,8,7.9,2,845
+5/2/2026 15:45,snack,CP Chicken Roll,fast food,No,4,No,Non-Spicy,No,2,6,5,7.9,2,364
+5/2/2026 17:15,snack,Tea,prepacked,No,7,No,Non-Spicy,Yes,8,6,5,7.9,2,195
+5/2/2026 19:30,dinner,Instant Noodles,prepacked,No,1,No,Spicy,Yes,3,4,4,7.9,2,546
+5/2/2026 23:45,snack,Oreo,fast food,Yes,4,No,Non-Spicy,Yes,3,4,4,7.9,2,364
+5/3/2026 9:00,breakfast,Matcha,prepacked,Yes,6,Yes,Non-Spicy,Yes,8,2,1,5.9,0.9,180
+5/3/2026 18:30,dinner,Instant Noodles,prepacked,Yes,4,No,Spicy,Yes,6,2,1,5.9,0.9,420
+5/4/2026 13:00,lunch,Fried Egg,fast food,No,3,No,Non-Spicy,No,5,7,6,8.2,1.8,364
+5/4/2026 15:45,snack,CP Chicken Roll,fast food,No,2,No,Non-Spicy,No,3,7,8,8.2,1.8,364
+5/4/2026 17:15,snack,CP Chicken Roll,fast food,Yes,4,No,Non-Spicy,No,2,7,8,8.2,1.8,364
+5/4/2026 19:30,dinner,Instant Noodles,prepacked,Yes,1,No,Spicy,No,6,7,6,8.2,1.8,546
+5/4/2026 23:45,snack,Instant Noodles,prepacked,No,4,No,Spicy,No,6,7,5,8.2,1.8,546
+5/5/2026 9:00,breakfast,Tea,prepacked,No,4,Yes,Non-Spicy,Yes,6,1,2,5.2,1,150
+5/5/2026 18:30,dinner,Rice with homecook meals,homecook,Yes,1,No,Spicy,Yes,8,1,5,5.2,1,500
+5/6/2026 8:15,breakfast,Yogurt,prepacked,No,4,No,Non-Spicy,Yes,7,7,4,7.7,2.2,150
+5/6/2026 12:15,lunch,Lotteria Burger,fast food,No,4,No,Non-Spicy,No,4,9,5,7.7,2.2,750
+5/6/2026 15:30,snack,Instant Noodles,prepacked,Yes,3,No,Spicy,Yes,4,7,3,7.7,2.2,280
+5/6/2026 19:45,dinner,Kway Teow,restaurant,Yes,1,No,Non-Spicy,No,5,9,7,7.7,2.2,600
+5/7/2026 7:30,breakfast,Shan Noodles,restaurant,Yes,3,No,Spicy,No,7,7,7,8.4,1.7,450
+5/7/2026 13:00,lunch,Laphat Htamin,homecook,Yes,1,No,Spicy,Yes,4,5,4,8.4,1.7,280
+5/7/2026 16:45,snack,Bel Thar moke,fast food,Yes,4,No,Non-Spicy,Yes,6,5,3,8.4,1.7,280
+5/7/2026 19:00,dinner,Chicken Rice,restaurant,Yes,2,No,Non-Spicy,No,5,7,7,8.4,1.7,650
+5/8/2026 13:00,lunch,Instant Noodles,fast food,Yes,1,No,Spicy,Yes,6,4,4,7.9,1.8,364
+5/8/2026 15:45,snack,Laphat Thoke,homecook,No,4,No,Spicy,Yes,4,4,4,7.9,1.8,364
+5/8/2026 17:15,snack,Instant Noodles,prepacked,Yes,3,No,Spicy,Yes,5,4,4,7.9,1.8,364
+5/8/2026 20:15,dinner,Kway Teow,restaurant,Yes,3,No,Non-Spicy,No,7,6,7,7.9,1.8,780
+5/8/2026 23:45,snack,Instant Noodles,prepacked,Yes,1,No,Spicy,Yes,5,4,3,7.9,1.8,546
+5/9/2026 9:00,breakfast,Hta Min Thoke,restaurant,Yes,3,No,Spicy,No,6,4,5,5.6,1.1,400
+5/9/2026 18:30,dinner,Instant Noodles,prepacked,No,3,No,Spicy,Yes,4,2,1,5.6,1.1,420
+5/10/2026 8:45,breakfast,Shan Noodles,restaurant,Yes,4,No,Spicy,No,8,6,8,7.6,2,450
+5/10/2026 13:00,lunch,Shan Noodles,restaurant,No,4,No,Spicy,No,6,6,8,7.6,2,450
+5/10/2026 16:15,snack,Seaweed Snack,fast food,Yes,4,No,Non-Spicy,No,4,6,5,7.6,2,280
+5/10/2026 20:30,dinner,Lotteria Burger,fast food,Yes,3,No,Non-Spicy,No,5,6,5,7.6,2,750
+5/11/2026 7:30,breakfast,Matcha,prepacked,Yes,5,Yes,Non-Spicy,No,7,7,5,6.7,1.7,180
+5/11/2026 13:30,lunch,CP Chicken Roll,fast food,No,2,No,Non-Spicy,No,5,7,5,6.7,1.7,280
+5/11/2026 16:15,snack,CP Chicken Roll,fast food,Yes,2,No,Non-Spicy,No,6,7,5,6.7,1.7,280
+5/11/2026 19:45,dinner,Mala Xiang Guo,restaurant,No,4,No,Spicy,Yes,8,5,3,6.7,1.7,1100
+5/12/2026 8:15,breakfast,Khouk Swl Thoke,restaurant,No,3,No,Spicy,No,5,6,10,6.9,1.6,400
+5/12/2026 13:00,lunch,Shan Noodles,restaurant,Yes,4,No,Spicy,No,6,6,10,6.9,1.6,450
+5/12/2026 15:30,snack,Matcha,prepacked,Yes,6,Yes,Non-Spicy,No,7,6,6,6.9,1.6,180
+5/12/2026 20:30,dinner,Instant Noodles,prepacked,No,1,No,Spicy,No,3,6,7,6.9,1.6,420
+5/13/2026 7:30,breakfast,Coffee Aye,prepacked,No,2,Yes,Non-Spicy,Yes,7,5,4,7,1.6,150
+5/13/2026 12:15,lunch,CP Chicken Roll,fast food,Yes,1,No,Non-Spicy,No,4,7,5,7,1.6,280
+5/13/2026 16:15,snack,Fried Egg,fast food,Yes,2,No,Non-Spicy,No,5,7,6,7,1.6,280
+5/13/2026 19:45,dinner,Chicken Rice,restaurant,No,3,No,Non-Spicy,No,7,7,8,7,1.6,650
+5/14/2026 13:00,lunch,Fried Egg,fast food,No,4,No,Non-Spicy,No,4,9,5,7.4,2,364
+5/14/2026 15:45,snack,CP Chicken Roll,fast food,No,1,No,Non-Spicy,No,5,9,5,7.4,2,364
+5/14/2026 17:15,snack,Instant Noodles,prepacked,Yes,4,No,Spicy,No,4,9,6,7.4,2,546
+5/14/2026 20:15,dinner,BBQ,restaurant,Yes,1,No,Spicy,No,8,9,5,7.4,2,1040
+5/14/2026 23:45,snack,CP Chicken Roll,fast food,No,1,No,Non-Spicy,No,3,9,6,7.4,2,364
+5/15/2026 9:00,breakfast,Mohinga,restaurant,Yes,3,No,Spicy,No,7,5,5,5.5,1,400
+5/15/2026 18:30,dinner,Lotteria Burger,fast food,No,4,No,Non-Spicy,Yes,2,3,1,5.5,1,750

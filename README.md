@@ -49,8 +49,11 @@ However, mapping the data chronologically and categorically reveals a completely
 
 ##  Decision-Making Explanation
 
-When designing this dashboard, specific engineering and analytical choices were made to translate raw data rows into responsible real-world insights:
-
+When designing this dashboard, specific engineering and analytical choices were made to translate raw data rows into responsible real-world insights
+### with Strategic Selection of Visualization Metrics such as :
+* **Pie Chart(Sourcing Distribution):** A pie chart was chosen specifically to represent food sourcing categories. Because the  meals are split into finite, non-overlapping environments (Home Cooked, Fast Food, Restaurant), the pie chart provides an instant, intuitive look at the dominant 70.4% commercial dependency.
+* **Box Plot (Calorie Distribution vs. Comfort):** Average calorie numbers hide data skewness. Box plots were deliberately selected because they visualize medians, quartiles, and outliers. This mathematical layout proved that the median caloric load for cleanly digested meals was virtually identical to disrupted meals, successfully debunking the myth that "meal size" causes pain.
+* **Bar Chart (Energy Levels vs. Meal Type):** A bar chart was implemented to compare categorical averages across meal types (Breakfast, Lunch, Dinner, Snack). This format clearly isolated snacks as the lowest-performing category, pointing out the exact culprit behind fatigue.
 
 
 ---
@@ -66,11 +69,4 @@ As an application dealing with personal health, wellness, and behavioral biomark
 
 ---
 
-##  Local Installation
 
-To run this dashboard locally, ensure you have Python 3.8+ installed, then follow these steps:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME

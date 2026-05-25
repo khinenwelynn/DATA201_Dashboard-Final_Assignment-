@@ -58,12 +58,12 @@ When designing this dashboard, specific engineering and analytical choices were 
 
 ---
 
-##  Ethical Discussion & Governance
+##  Ethical Discussion 
 
-As an application dealing with personal health, wellness, and behavioral biomarkers, a rigorous data governance framework was built directly into the project architecture:
+As an application dealing with personal health, wellness, and behavioral biomarkers, a ethical data framework was built directly into the project architecture:
 
-* **Strict Privacy Protocols:** The dataset enforces absolute data minimization. No Personally Identifiable Information (PII)—such as names, emails, contact details, or location tracking—is collected or stored. The app functions as an isolated, client-side journal completely decoupled from clinical health records.
-* **The Isolation Fallacy Constraint:** An ethical data analysis must acknowledge its own limits. By choosing to isolate diet (calories, spice, caffeine) as the sole variables, the dashboard systematically ignores external macro-variables like sleep deprivation, academic exam stress, hydration levels, and genetics. It is responsibly disclosed that an energy crash could be caused by a sleepless night, even if the app blames a snack.
+* **Privacy Protocols:** The dataset enforces absolute data minimization. No Personally Identifiable Informationsuch as names, emails, contact details, or location tracking is collected or stored. The app functions as an isolated, client-side journal completely decoupled from clinical health records.
+* **The Isolation Constraint:** An ethical data analysis must acknowledge its own limits. By choosing to isolate diet (calories, spice, caffeine) as the sole variables, the dashboard systematically ignores external macro-variables like sleep deprivation, academic exam stress, hydration levels, and genetics. It is responsibly disclosed that an energy crash could be caused by a sleepless night, even if the app blames a snack.
 * **The Synthetic Data Limitation:** Because this system was tested and built using synthetically generated data, it exhibits clean, predictable mathematical boundaries. Real human biology is inherently chaotic, non-linear, and unpredictable. 
 * **Responsible Next Steps:** To maintain high ethical standards, the dashboard explicitly frames its insights as a **Technical Proof of Concept ** rather than a medical diagnostic tool. It contains permanent disclaimers warning users not to make drastic lifestyle or health changes based on these simulated charts alone, but to use this codebase as a secure blueprint to be fueled by a real, long-term human food log in the future.
 
